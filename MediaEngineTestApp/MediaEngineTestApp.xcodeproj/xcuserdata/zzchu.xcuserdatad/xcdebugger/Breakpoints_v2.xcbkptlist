@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../common/src/DemoClient.cpp"
+            timestampString = "404721557.953846"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1022"
+            endingLineNumber = "1022"
+            landmarkName = "DemoClient::GetMediaClient(DEMO_MEDIA_TYPE mtype, DEMO_TRACK_TYPE ttype)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../common/src/DemoClient.cpp"
+            timestampString = "404721557.953846"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1023"
+            endingLineNumber = "1023"
+            landmarkName = "DemoClient::GetMediaClient(DEMO_MEDIA_TYPE mtype, DEMO_TRACK_TYPE ttype)"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DemoClient::CreateAudioTransport()"
+                  moduleName = "MediaEngineTestApp"
+                  urlString = "file:///Users/zzchu/Desktop/zzchu-ws/svn-ws/whitney_cur/src/common/MediaSDK/wme/testbed/common/src/DemoClient.cpp"
+                  timestampString = "404122844.567611"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1008"
+                  endingLineNumber = "1008"
+                  offsetFromSymbolStart = "708">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DemoClient::CreateAudioTransport()"
+                  moduleName = "MediaEngineTestApp"
+                  urlString = "file:///Users/zzchu/Desktop/zzchu-ws/svn-ws/whitney_cur/src/common/MediaSDK/wme/testbed/common/src/DemoClient.cpp"
+                  timestampString = "404122844.567822"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1008"
+                  endingLineNumber = "1008"
+                  offsetFromSymbolStart = "1050">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MediaEngineTestApp/WMEDataProcess.m"
+            timestampString = "405241464.003013"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "325"
+            endingLineNumber = "325"
+            landmarkName = "-queryVideoCameraCapabilities"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../common/src/DemoClient.cpp"
+            timestampString = "404121211.568905"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "232"
+            endingLineNumber = "232"
+            landmarkName = "DemoClient::UnInit()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../common/src/DemoClient.cpp"
+            timestampString = "404121213.097776"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "226"
+            endingLineNumber = "226"
+            landmarkName = "DemoClient::UnInit()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../common/src/MediaTransport.cpp"
+            timestampString = "404123004.919507"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "173"
+            endingLineNumber = "173"
+            landmarkName = "MediaTransport::OnReceiveData(unsigned char *pData, int nDataLen, NetDataType dataType)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MediaEngineTestApp/NotificationTransfer.h"
+            timestampString = "404123525.775795"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "56"
+            endingLineNumber = "56"
+            landmarkName = "connectRemoteOKFromClient(DEMO_MEDIA_TYPE mtype)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MediaEngineTestApp/WMESettingViewController.m"
+            timestampString = "404288564.954858"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "281"
+            endingLineNumber = "281"
+            landmarkName = "-prepareForSegue:sender:"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[WMESettingViewController updateStatistics]"
+                  moduleName = "MediaEngineTestApp"
+                  urlString = "file:///Users/zzchu/Desktop/zzchu-ws/svn-ws/whitney_cur/src/common/MediaSDK/wme/testbed/iOS/MediaEngineTestApp/MediaEngineTestApp/WMESettingViewController.m"
+                  timestampString = "404721560.513186"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "281"
+                  endingLineNumber = "281"
+                  offsetFromSymbolStart = "148">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[WMESettingViewController updateStatistics]"
+                  moduleName = "MediaEngineTestApp"
+                  urlString = "file:///Users/zzchu/Desktop/zzchu-ws/svn-ws/whitney_cur/src/common/MediaSDK/wme/testbed/iOS/MediaEngineTestApp/MediaEngineTestApp/WMESettingViewController.m"
+                  timestampString = "404721560.516035"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "281"
+                  endingLineNumber = "281"
+                  offsetFromSymbolStart = "2478">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[WMESettingViewController updateStatistics]"
+                  moduleName = "MediaEngineTestApp"
+                  urlString = "file:///Users/zzchu/Desktop/zzchu-ws/svn-ws/whitney_cur/src/common/MediaSDK/wme/testbed/iOS/MediaEngineTestApp/MediaEngineTestApp/WMESettingViewController.m"
+                  timestampString = "404721560.516324"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "281"
+                  endingLineNumber = "281"
+                  offsetFromSymbolStart = "2828">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../common/src/DemoClient.cpp"
+            timestampString = "404721557.953846"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "700"
+            endingLineNumber = "700"
+            landmarkName = "DemoClient::ClearDeviceCapabilities(DEMO_DEV_TYPE dtype, DeviceCapabilityList &amp;dcList)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MediaEngineTestApp/WMEConnectionViewController.m"
+            timestampString = "404287864.356539"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "-StopPlay:"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[WMEConnectionViewController StopPlay:]"
+                  moduleName = "MediaEngineTestApp"
+                  urlString = "file:///Users/zzchu/Desktop/zzchu-ws/svn-ws/whitney_cur/src/common/MediaSDK/wme/testbed/iOS/MediaEngineTestApp/MediaEngineTestApp/WMEConnectionViewController.m"
+                  timestampString = "404721560.516683"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[WMEConnectionViewController StopPlay:]"
+                  moduleName = "MediaEngineTestApp"
+                  urlString = "file:///Users/zzchu/Desktop/zzchu-ws/svn-ws/whitney_cur/src/common/MediaSDK/wme/testbed/iOS/MediaEngineTestApp/MediaEngineTestApp/WMEConnectionViewController.m"
+                  timestampString = "404721560.517002"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "392">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[WMEConnectionViewController StopPlay:]"
+                  moduleName = "MediaEngineTestApp"
+                  urlString = "file:///Users/zzchu/Desktop/zzchu-ws/svn-ws/whitney_cur/src/common/MediaSDK/wme/testbed/iOS/MediaEngineTestApp/MediaEngineTestApp/WMEConnectionViewController.m"
+                  timestampString = "404721560.517275"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "430">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MediaEngineTestApp/WMEDataProcess.m"
+            timestampString = "405247187.405341"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "497"
+            endingLineNumber = "497"
+            landmarkName = "-clickedConnect"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MediaEngineTestApp/WMEDisplayViewController.m"
+            timestampString = "405247187.405341"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "456"
+            endingLineNumber = "456"
+            landmarkName = "-prepareForSegue:sender:"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[WMEDisplayViewController SetSetting:]"
+                  moduleName = "MediaEngineTestApp"
+                  urlString = "file:///Users/zzchu/Desktop/zzchu-ws/svn-ws/whitney_cur/src/common/MediaSDK/wme/testbed/iOS/MediaEngineTestApp/MediaEngineTestApp/WMEDisplayViewController.m"
+                  timestampString = "404721560.517603"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "470"
+                  endingLineNumber = "470"
+                  offsetFromSymbolStart = "254">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[WMEDisplayViewController SetSetting:]"
+                  moduleName = "MediaEngineTestApp"
+                  urlString = "file:///Users/zzchu/Desktop/zzchu-ws/svn-ws/whitney_cur/src/common/MediaSDK/wme/testbed/iOS/MediaEngineTestApp/MediaEngineTestApp/WMEDisplayViewController.m"
+                  timestampString = "404721560.517886"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "470"
+                  endingLineNumber = "470"
+                  offsetFromSymbolStart = "688">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

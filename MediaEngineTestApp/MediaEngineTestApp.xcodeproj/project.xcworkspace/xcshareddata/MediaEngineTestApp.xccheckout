@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>61F42490-4F5E-4D88-97E9-C4D20FB72724</string>
+	<key>IDESourceControlProjectName</key>
+	<string>MediaEngineTestApp</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>1D07ABCB-3275-4921-8C13-E627ABB6A632</key>
+		<string>https://wwwin-svn-sjc-2.cisco.com/csg/Whitney/trunk</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>src/common/MediaSDK/wme/testbed/iOS/MediaEngineTestApp/MediaEngineTestApp.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>1D07ABCB-3275-4921-8C13-E627ABB6A632</key>
+		<string>../../../../../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>1D07ABCB-3275-4921-8C13-E627ABB6A632</key>
+		<string>https://wwwin-svn-sjc-2.cisco.com/csg/Whitney</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://wwwin-svn-sjc-2.cisco.com/csg/Whitney/trunk/src/common/MediaSDK/wme/testbed/iOS/MediaEngineTestApp/MediaEngineTestApp.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>1D07ABCB-3275-4921-8C13-E627ABB6A632</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryBranchesRelativeLocationKey</key>
+			<string>branches</string>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlRepositoryTagsRelativeLocationKey</key>
+			<string>tags</string>
+			<key>IDESourceControlRepositoryTrunkRelativeLocationKey</key>
+			<string>trunk</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>1D07ABCB-3275-4921-8C13-E627ABB6A632</string>
+			<key>IDESourceControlWCCName</key>
+			<string>whitney_cur</string>
+		</dict>
+	</array>
+</dict>
+</plist>

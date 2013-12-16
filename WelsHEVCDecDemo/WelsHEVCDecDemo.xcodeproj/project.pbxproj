@@ -1,0 +1,397 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		F0454449182C73C100F7D5F8 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F0454448182C73C100F7D5F8 /* UIKit.framework */; };
+		F045444B182C73C100F7D5F8 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F045444A182C73C100F7D5F8 /* Foundation.framework */; };
+		F045444D182C73C100F7D5F8 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F045444C182C73C100F7D5F8 /* CoreGraphics.framework */; };
+		F0454453182C73C100F7D5F8 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = F0454451182C73C100F7D5F8 /* InfoPlist.strings */; };
+		F0454455182C73C100F7D5F8 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = F0454454182C73C100F7D5F8 /* main.m */; };
+		F0454459182C73C100F7D5F8 /* DEMOAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = F0454458182C73C100F7D5F8 /* DEMOAppDelegate.m */; };
+		F045445B182C73C100F7D5F8 /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = F045445A182C73C100F7D5F8 /* Default.png */; };
+		F045445D182C73C100F7D5F8 /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = F045445C182C73C100F7D5F8 /* Default@2x.png */; };
+		F045445F182C73C100F7D5F8 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = F045445E182C73C100F7D5F8 /* Default-568h@2x.png */; };
+		F0454462182C73C100F7D5F8 /* MainStoryboard_iPhone.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F0454460182C73C100F7D5F8 /* MainStoryboard_iPhone.storyboard */; };
+		F0454465182C73C100F7D5F8 /* MainStoryboard_iPad.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F0454463182C73C100F7D5F8 /* MainStoryboard_iPad.storyboard */; };
+		F0454468182C73C100F7D5F8 /* DEMOViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F0454467182C73C100F7D5F8 /* DEMOViewController.m */; };
+		F0454479182C74FB00F7D5F8 /* libWelsHEVCDec.a in Frameworks */ = {isa = PBXBuildFile; fileRef = F0454475182C749400F7D5F8 /* libWelsHEVCDec.a */; };
+		F045447F182C75AE00F7D5F8 /* TestDecoder.cpp in Sources */ = {isa = PBXBuildFile; fileRef = F045447D182C75AE00F7D5F8 /* TestDecoder.cpp */; };
+		F0454483182C76DB00F7D5F8 /* DEMOViewControllerShowResource.m in Sources */ = {isa = PBXBuildFile; fileRef = F0454482182C76DB00F7D5F8 /* DEMOViewControllerShowResource.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		F0454474182C749400F7D5F8 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = F0454470182C749300F7D5F8 /* WelsHEVCDec.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = F0DE7257181A3BD5001A4CD7;
+			remoteInfo = WelsHEVCDec;
+		};
+		F045447A182C750600F7D5F8 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = F0454470182C749300F7D5F8 /* WelsHEVCDec.xcodeproj */;
+			proxyType = 1;
+			remoteGlobalIDString = F0DE7256181A3BD5001A4CD7;
+			remoteInfo = WelsHEVCDec;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		F0454445182C73C100F7D5F8 /* WelsHEVCDecDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WelsHEVCDecDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		F0454448182C73C100F7D5F8 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		F045444A182C73C100F7D5F8 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		F045444C182C73C100F7D5F8 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		F0454450182C73C100F7D5F8 /* WelsHEVCDecDemo-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "WelsHEVCDecDemo-Info.plist"; sourceTree = "<group>"; };
+		F0454452182C73C100F7D5F8 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		F0454454182C73C100F7D5F8 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		F0454456182C73C100F7D5F8 /* WelsHEVCDecDemo-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "WelsHEVCDecDemo-Prefix.pch"; sourceTree = "<group>"; };
+		F0454457182C73C100F7D5F8 /* DEMOAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DEMOAppDelegate.h; sourceTree = "<group>"; };
+		F0454458182C73C100F7D5F8 /* DEMOAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DEMOAppDelegate.m; sourceTree = "<group>"; };
+		F045445A182C73C100F7D5F8 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
+		F045445C182C73C100F7D5F8 /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x.png"; sourceTree = "<group>"; };
+		F045445E182C73C100F7D5F8 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
+		F0454461182C73C100F7D5F8 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard_iPhone.storyboard; sourceTree = "<group>"; };
+		F0454464182C73C100F7D5F8 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard_iPad.storyboard; sourceTree = "<group>"; };
+		F0454466182C73C100F7D5F8 /* DEMOViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DEMOViewController.h; sourceTree = "<group>"; };
+		F0454467182C73C100F7D5F8 /* DEMOViewController.m */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.objcpp; path = DEMOViewController.m; sourceTree = "<group>"; };
+		F0454470182C749300F7D5F8 /* WelsHEVCDec.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = WelsHEVCDec.xcodeproj; path = ../WelsHEVCDec/WelsHEVCDec.xcodeproj; sourceTree = "<group>"; };
+		F045447D182C75AE00F7D5F8 /* TestDecoder.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = TestDecoder.cpp; path = ../../../../TestDecoder/TestDecoder.cpp; sourceTree = "<group>"; };
+		F045447E182C75AE00F7D5F8 /* TestDecoder.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = TestDecoder.h; path = ../../../../TestDecoder/TestDecoder.h; sourceTree = "<group>"; };
+		F0454481182C76DB00F7D5F8 /* DEMOViewControllerShowResource.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DEMOViewControllerShowResource.h; sourceTree = "<group>"; };
+		F0454482182C76DB00F7D5F8 /* DEMOViewControllerShowResource.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DEMOViewControllerShowResource.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		F0454442182C73C100F7D5F8 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F0454479182C74FB00F7D5F8 /* libWelsHEVCDec.a in Frameworks */,
+				F0454449182C73C100F7D5F8 /* UIKit.framework in Frameworks */,
+				F045444B182C73C100F7D5F8 /* Foundation.framework in Frameworks */,
+				F045444D182C73C100F7D5F8 /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		F045443C182C73C100F7D5F8 = {
+			isa = PBXGroup;
+			children = (
+				F045444E182C73C100F7D5F8 /* WelsHEVCDecDemo */,
+				F0454447182C73C100F7D5F8 /* Frameworks */,
+				F0454446182C73C100F7D5F8 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		F0454446182C73C100F7D5F8 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				F0454445182C73C100F7D5F8 /* WelsHEVCDecDemo.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		F0454447182C73C100F7D5F8 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				F0454470182C749300F7D5F8 /* WelsHEVCDec.xcodeproj */,
+				F0454448182C73C100F7D5F8 /* UIKit.framework */,
+				F045444A182C73C100F7D5F8 /* Foundation.framework */,
+				F045444C182C73C100F7D5F8 /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		F045444E182C73C100F7D5F8 /* WelsHEVCDecDemo */ = {
+			isa = PBXGroup;
+			children = (
+				F0454480182C75B300F7D5F8 /* console */,
+				F0454457182C73C100F7D5F8 /* DEMOAppDelegate.h */,
+				F0454458182C73C100F7D5F8 /* DEMOAppDelegate.m */,
+				F0454460182C73C100F7D5F8 /* MainStoryboard_iPhone.storyboard */,
+				F0454463182C73C100F7D5F8 /* MainStoryboard_iPad.storyboard */,
+				F0454481182C76DB00F7D5F8 /* DEMOViewControllerShowResource.h */,
+				F0454482182C76DB00F7D5F8 /* DEMOViewControllerShowResource.m */,
+				F0454466182C73C100F7D5F8 /* DEMOViewController.h */,
+				F0454467182C73C100F7D5F8 /* DEMOViewController.m */,
+				F045444F182C73C100F7D5F8 /* Supporting Files */,
+			);
+			path = WelsHEVCDecDemo;
+			sourceTree = "<group>";
+		};
+		F045444F182C73C100F7D5F8 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				F0454450182C73C100F7D5F8 /* WelsHEVCDecDemo-Info.plist */,
+				F0454451182C73C100F7D5F8 /* InfoPlist.strings */,
+				F0454454182C73C100F7D5F8 /* main.m */,
+				F0454456182C73C100F7D5F8 /* WelsHEVCDecDemo-Prefix.pch */,
+				F045445A182C73C100F7D5F8 /* Default.png */,
+				F045445C182C73C100F7D5F8 /* Default@2x.png */,
+				F045445E182C73C100F7D5F8 /* Default-568h@2x.png */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		F0454471182C749300F7D5F8 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				F0454475182C749400F7D5F8 /* libWelsHEVCDec.a */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		F0454480182C75B300F7D5F8 /* console */ = {
+			isa = PBXGroup;
+			children = (
+				F045447D182C75AE00F7D5F8 /* TestDecoder.cpp */,
+				F045447E182C75AE00F7D5F8 /* TestDecoder.h */,
+			);
+			name = console;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		F0454444182C73C100F7D5F8 /* WelsHEVCDecDemo */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = F045446B182C73C100F7D5F8 /* Build configuration list for PBXNativeTarget "WelsHEVCDecDemo" */;
+			buildPhases = (
+				F0454441182C73C100F7D5F8 /* Sources */,
+				F0454442182C73C100F7D5F8 /* Frameworks */,
+				F0454443182C73C100F7D5F8 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				F045447B182C750600F7D5F8 /* PBXTargetDependency */,
+			);
+			name = WelsHEVCDecDemo;
+			productName = WelsHEVCDecDemo;
+			productReference = F0454445182C73C100F7D5F8 /* WelsHEVCDecDemo.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		F045443D182C73C100F7D5F8 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				CLASSPREFIX = DEMO;
+				LastUpgradeCheck = 0460;
+				ORGANIZATIONNAME = "video codec";
+			};
+			buildConfigurationList = F0454440182C73C100F7D5F8 /* Build configuration list for PBXProject "WelsHEVCDecDemo" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = F045443C182C73C100F7D5F8;
+			productRefGroup = F0454446182C73C100F7D5F8 /* Products */;
+			projectDirPath = "";
+			projectReferences = (
+				{
+					ProductGroup = F0454471182C749300F7D5F8 /* Products */;
+					ProjectRef = F0454470182C749300F7D5F8 /* WelsHEVCDec.xcodeproj */;
+				},
+			);
+			projectRoot = "";
+			targets = (
+				F0454444182C73C100F7D5F8 /* WelsHEVCDecDemo */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXReferenceProxy section */
+		F0454475182C749400F7D5F8 /* libWelsHEVCDec.a */ = {
+			isa = PBXReferenceProxy;
+			fileType = archive.ar;
+			path = libWelsHEVCDec.a;
+			remoteRef = F0454474182C749400F7D5F8 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+/* End PBXReferenceProxy section */
+
+/* Begin PBXResourcesBuildPhase section */
+		F0454443182C73C100F7D5F8 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F0454453182C73C100F7D5F8 /* InfoPlist.strings in Resources */,
+				F045445B182C73C100F7D5F8 /* Default.png in Resources */,
+				F045445D182C73C100F7D5F8 /* Default@2x.png in Resources */,
+				F045445F182C73C100F7D5F8 /* Default-568h@2x.png in Resources */,
+				F0454462182C73C100F7D5F8 /* MainStoryboard_iPhone.storyboard in Resources */,
+				F0454465182C73C100F7D5F8 /* MainStoryboard_iPad.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		F0454441182C73C100F7D5F8 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F0454455182C73C100F7D5F8 /* main.m in Sources */,
+				F0454459182C73C100F7D5F8 /* DEMOAppDelegate.m in Sources */,
+				F0454468182C73C100F7D5F8 /* DEMOViewController.m in Sources */,
+				F045447F182C75AE00F7D5F8 /* TestDecoder.cpp in Sources */,
+				F0454483182C76DB00F7D5F8 /* DEMOViewControllerShowResource.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		F045447B182C750600F7D5F8 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = WelsHEVCDec;
+			targetProxy = F045447A182C750600F7D5F8 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		F0454451182C73C100F7D5F8 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				F0454452182C73C100F7D5F8 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		F0454460182C73C100F7D5F8 /* MainStoryboard_iPhone.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				F0454461182C73C100F7D5F8 /* en */,
+			);
+			name = MainStoryboard_iPhone.storyboard;
+			sourceTree = "<group>";
+		};
+		F0454463182C73C100F7D5F8 /* MainStoryboard_iPad.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				F0454464182C73C100F7D5F8 /* en */,
+			);
+			name = MainStoryboard_iPad.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		F0454469182C73C100F7D5F8 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		F045446A182C73C100F7D5F8 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		F045446C182C73C100F7D5F8 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "WelsHEVCDecDemo/WelsHEVCDecDemo-Prefix.pch";
+				HEADER_SEARCH_PATHS = ../../../WelsHEVCDecoder/inc;
+				INFOPLIST_FILE = "WelsHEVCDecDemo/WelsHEVCDecDemo-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		F045446D182C73C100F7D5F8 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "WelsHEVCDecDemo/WelsHEVCDecDemo-Prefix.pch";
+				HEADER_SEARCH_PATHS = ../../../WelsHEVCDecoder/inc;
+				INFOPLIST_FILE = "WelsHEVCDecDemo/WelsHEVCDecDemo-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		F0454440182C73C100F7D5F8 /* Build configuration list for PBXProject "WelsHEVCDecDemo" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F0454469182C73C100F7D5F8 /* Debug */,
+				F045446A182C73C100F7D5F8 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		F045446B182C73C100F7D5F8 /* Build configuration list for PBXNativeTarget "WelsHEVCDecDemo" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F045446C182C73C100F7D5F8 /* Debug */,
+				F045446D182C73C100F7D5F8 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = F045443D182C73C100F7D5F8 /* Project object */;
+}
