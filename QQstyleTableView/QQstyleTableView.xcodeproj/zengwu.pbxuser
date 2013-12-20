@@ -1,0 +1,244 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* QQTableViewAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {704, 528}}";
+			sepNavSelRange = "{207, 0}";
+			sepNavVisRange = "{0, 495}";
+		};
+	};
+	1D3623250D0F684500981E51 /* QQTableViewAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {704, 528}}";
+			sepNavSelRange = "{504, 0}";
+			sepNavVisRange = "{0, 688}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* QQstyleTableView */ = {
+		activeExec = 0;
+		executables = (
+			E7B3660C12ADF842007CB813 /* QQstyleTableView */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* QQTableViewViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {908, 515}}";
+			sepNavSelRange = "{397, 0}";
+			sepNavVisRange = "{0, 563}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* QQTableViewViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {943, 1898}}";
+			sepNavSelRange = "{3918, 0}";
+			sepNavVisRange = "{1887, 1780}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = E7B3660C12ADF842007CB813 /* QQstyleTableView */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* QQstyleTableView */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* QQstyleTableView */,
+		);
+		breakpoints = (
+		);
+		codeSenseManager = E7B3662512ADF85D007CB813 /* Code sense */;
+		executables = (
+			E7B3660C12ADF842007CB813 /* QQstyleTableView */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					526,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 323053831;
+			PBXWorkspaceStateSaveDate = 323053831;
+		};
+		perUserProjectItems = {
+			E7A8EDD11341693E00F16C02 /* PBXTextBookmark */ = E7A8EDD11341693E00F16C02 /* PBXTextBookmark */;
+			E7A8EDD21341693E00F16C02 /* PBXTextBookmark */ = E7A8EDD21341693E00F16C02 /* PBXTextBookmark */;
+			E7A8EDD31341693E00F16C02 /* PBXTextBookmark */ = E7A8EDD31341693E00F16C02 /* PBXTextBookmark */;
+			E7A8EDD51341694700F16C02 /* PBXTextBookmark */ = E7A8EDD51341694700F16C02 /* PBXTextBookmark */;
+			E7B366AD12ADFCCC007CB813 /* PBXTextBookmark */ = E7B366AD12ADFCCC007CB813 /* PBXTextBookmark */;
+			E7B369F212AE6AD0007CB813 /* PlistBookmark */ = E7B369F212AE6AD0007CB813 /* PlistBookmark */;
+			E7BA47D112AF10E6007D0434 /* PBXBookmark */ = E7BA47D112AF10E6007D0434 /* PBXBookmark */;
+			E7BA47D212AF10E6007D0434 /* PBXBookmark */ = E7BA47D212AF10E6007D0434 /* PBXBookmark */;
+			E7BA47D312AF10E6007D0434 /* PBXBookmark */ = E7BA47D312AF10E6007D0434 /* PBXBookmark */;
+			E7BA47EF12AF11C7007D0434 /* PBXBookmark */ = E7BA47EF12AF11C7007D0434 /* PBXBookmark */;
+			E7BA47F012AF11C7007D0434 /* PBXTextBookmark */ = E7BA47F012AF11C7007D0434 /* PBXTextBookmark */;
+		};
+		sourceControlManager = E7B3662412ADF85D007CB813 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8D1107310486CEB800E47090 /* QQstyleTableView-Info.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{107, 131}, {750, 558}}";
+		};
+	};
+	E7A8EDD11341693E00F16C02 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* QQTableViewViewController.m */;
+		name = "QQTableViewViewController.m: 108";
+		rLen = 0;
+		rLoc = 3918;
+		rType = 0;
+		vrLen = 1780;
+		vrLoc = 1887;
+	};
+	E7A8EDD21341693E00F16C02 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* QQTableViewAppDelegate.h */;
+		name = "QQTableViewAppDelegate.h: 13";
+		rLen = 0;
+		rLoc = 207;
+		rType = 0;
+		vrLen = 495;
+		vrLoc = 0;
+	};
+	E7A8EDD31341693E00F16C02 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* QQTableViewAppDelegate.m */;
+		name = "QQTableViewAppDelegate.m: 9";
+		rLen = 0;
+		rLoc = 157;
+		rType = 0;
+		vrLen = 630;
+		vrLoc = 0;
+	};
+	E7A8EDD51341694700F16C02 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* QQTableViewAppDelegate.m */;
+		name = "QQTableViewAppDelegate.m: 21";
+		rLen = 0;
+		rLoc = 504;
+		rType = 0;
+		vrLen = 688;
+		vrLoc = 0;
+	};
+	E7B3660C12ADF842007CB813 /* QQstyleTableView */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = QQstyleTableView;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	E7B3662412ADF85D007CB813 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	E7B3662512ADF85D007CB813 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	E7B366A412ADFC5B007CB813 /* UITableView.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = UITableView.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableView.h;
+		sourceTree = "<absolute>";
+	};
+	E7B366AD12ADFCCC007CB813 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E7B366A412ADFC5B007CB813 /* UITableView.h */;
+		name = "UITableView.h: 58";
+		rLen = 89;
+		rLoc = 2120;
+		rType = 0;
+		vrLen = 2049;
+		vrLoc = 741;
+	};
+	E7B369F212AE6AD0007CB813 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* QQstyleTableView-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleVersion,
+		);
+		name = "/Users/zengwu/Desktop/资料/u/工作后资料/QQstyleTableView/QQstyleTableView-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	E7B36A7712AE7516007CB813 /* next.png */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{130, 110}, {750, 558}}";
+		};
+	};
+	E7BA47D112AF10E6007D0434 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = E7B366D812ADFF60007CB813 /* click1.png */;
+	};
+	E7BA47D212AF10E6007D0434 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = E7B366D912ADFF60007CB813 /* click2.png */;
+	};
+	E7BA47D312AF10E6007D0434 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = E7B36A7F12AE75FC007CB813 /* 102.png */;
+	};
+	E7BA47EF12AF11C7007D0434 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = E7B36A7712AE7516007CB813 /* next.png */;
+	};
+	E7BA47F012AF11C7007D0434 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* QQTableViewViewController.h */;
+		name = "QQTableViewViewController.h: 17";
+		rLen = 0;
+		rLoc = 397;
+		rType = 0;
+		vrLen = 563;
+		vrLoc = 0;
+	};
+}

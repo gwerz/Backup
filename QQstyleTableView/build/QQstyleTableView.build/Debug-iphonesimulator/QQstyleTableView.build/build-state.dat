@@ -1,0 +1,340 @@
+TQQstyleTableView
+v7
+r0
+t323053886.665335
+cCheck dependencies
+cProcessInfoPlistFile /Users/zengwu/Downloads/QQstyleTableView/build/Debug-iphonesimulator/QQstyleTableView.app/Info.plist QQstyleTableView-Info.plist
+cCompileXIB /Users/zengwu/Downloads/QQstyleTableView/MainWindow.xib
+cCompileXIB /Users/zengwu/Downloads/QQstyleTableView/QQTableViewViewController.xib
+cCpResource build/Debug-iphonesimulator/QQstyleTableView.app/click1.png click1.png
+cCpResource build/Debug-iphonesimulator/QQstyleTableView.app/click2.png click2.png
+cCpResource build/Debug-iphonesimulator/QQstyleTableView.app/next.png next.png
+cCpResource build/Debug-iphonesimulator/QQstyleTableView.app/102.png 102.png
+cProcessPCH /var/folders/+y/+yiVvc7jEuiSUq2PUs5aa++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/QQstyleTableView_Prefix-bfwqxqxwwhdqllfyyctjijozzhke/QQstyleTableView_Prefix.pch.gch QQstyleTableView_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/QQstyleTableView.build/Debug-iphonesimulator/QQstyleTableView.build/Objects-normal/i386/main.o /Users/zengwu/Downloads/QQstyleTableView/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/QQstyleTableView.build/Debug-iphonesimulator/QQstyleTableView.build/Objects-normal/i386/QQTableViewAppDelegate.o /Users/zengwu/Downloads/QQstyleTableView/Classes/QQTableViewAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/QQstyleTableView.build/Debug-iphonesimulator/QQstyleTableView.build/Objects-normal/i386/QQTableViewViewController.o /Users/zengwu/Downloads/QQstyleTableView/Classes/QQTableViewViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/zengwu/Downloads/QQstyleTableView/build/Debug-iphonesimulator/QQstyleTableView.app/QQstyleTableView normal i386
+cGenerateDSYMFile /Users/zengwu/Downloads/QQstyleTableView/build/Debug-iphonesimulator/QQstyleTableView.app.dSYM /Users/zengwu/Downloads/QQstyleTableView/build/Debug-iphonesimulator/QQstyleTableView.app/QQstyleTableView
+cTouch /Users/zengwu/Downloads/QQstyleTableView/build/Debug-iphonesimulator/QQstyleTableView.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004C9AD4330000000000000132
+t1285215283
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Users/zengwu/Downloads/QQstyleTableView/102.png
+c000000004C4664930000000000005718
+t1279681683
+s22296
+
+N/Users/zengwu/Downloads/QQstyleTableView/Classes/QQTableViewAppDelegate.h
+c000000004CFE329800000000000001EF
+t1291727512
+s495
+i<UIKit/UIKit.h>
+
+N/Users/zengwu/Downloads/QQstyleTableView/Classes/QQTableViewAppDelegate.m
+c000000004D9131BE00000000000002B0
+t1301361086
+s688
+i"QQTableViewAppDelegate.h"
+i"QQTableViewViewController.h"
+
+N/Users/zengwu/Downloads/QQstyleTableView/Classes/QQTableViewViewController.h
+c000000004CFED9F30000000000000233
+t1291770355
+s563
+i<UIKit/UIKit.h>
+
+N/Users/zengwu/Downloads/QQstyleTableView/Classes/QQTableViewViewController.m
+c000000004CFEDACF00000000000012FF
+t1291770575
+s4863
+i"QQTableViewViewController.h"
+
+N/Users/zengwu/Downloads/QQstyleTableView/MainWindow.xib
+c000000004CFE33280000000000004B9C
+t1291727656
+s19356
+
+N/Users/zengwu/Downloads/QQstyleTableView/QQTableViewViewController.xib
+c000000004AB83E6300000000000018FF
+t1253588579
+s6399
+
+N/Users/zengwu/Downloads/QQstyleTableView/QQstyleTableView_Prefix.pch
+c000000004AB83E6300000000000000C9
+t1253588579
+s201
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/zengwu/Downloads/QQstyleTableView/build/Debug-iphonesimulator/QQstyleTableView.app
+t1301361086
+s374
+
+N/Users/zengwu/Downloads/QQstyleTableView/build/Debug-iphonesimulator/QQstyleTableView.app.dSYM
+t1301361086
+s102
+
+N/Users/zengwu/Downloads/QQstyleTableView/build/Debug-iphonesimulator/QQstyleTableView.app/102.png
+t1301361034
+s22296
+
+N/Users/zengwu/Downloads/QQstyleTableView/build/Debug-iphonesimulator/QQstyleTableView.app/Info.plist
+t1301361034
+s633
+
+N/Users/zengwu/Downloads/QQstyleTableView/build/Debug-iphonesimulator/QQstyleTableView.app/MainWindow.nib
+t1301361034
+s1143
+
+N/Users/zengwu/Downloads/QQstyleTableView/build/Debug-iphonesimulator/QQstyleTableView.app/PkgInfo
+t1301361034
+s8
+
+N/Users/zengwu/Downloads/QQstyleTableView/build/Debug-iphonesimulator/QQstyleTableView.app/QQTableViewViewController.nib
+t1301361034
+s795
+
+N/Users/zengwu/Downloads/QQstyleTableView/build/Debug-iphonesimulator/QQstyleTableView.app/QQstyleTableView
+t1301361086
+s28052
+
+N/Users/zengwu/Downloads/QQstyleTableView/build/Debug-iphonesimulator/QQstyleTableView.app/click1.png
+t1301361034
+s3371
+
+N/Users/zengwu/Downloads/QQstyleTableView/build/Debug-iphonesimulator/QQstyleTableView.app/click2.png
+t1301361034
+s3375
+
+N/Users/zengwu/Downloads/QQstyleTableView/build/Debug-iphonesimulator/QQstyleTableView.app/next.png
+t1301361034
+s3127
+
+N/Users/zengwu/Downloads/QQstyleTableView/build/QQstyleTableView.build/Debug-iphonesimulator/QQstyleTableView.build/Objects-normal/i386/QQTableViewAppDelegate.o
+t1301361086
+s46312
+
+N/Users/zengwu/Downloads/QQstyleTableView/build/QQstyleTableView.build/Debug-iphonesimulator/QQstyleTableView.build/Objects-normal/i386/QQTableViewViewController.o
+t1301361035
+s61896
+
+N/Users/zengwu/Downloads/QQstyleTableView/build/QQstyleTableView.build/Debug-iphonesimulator/QQstyleTableView.build/Objects-normal/i386/QQstyleTableView.LinkFileList
+c000000004D91318A00000000000001D1
+t1301361034
+s465
+
+N/Users/zengwu/Downloads/QQstyleTableView/build/QQstyleTableView.build/Debug-iphonesimulator/QQstyleTableView.build/Objects-normal/i386/main.o
+t1301361035
+s6308
+
+N/Users/zengwu/Downloads/QQstyleTableView/click1.png
+c000000004C9C50020000000000000D2B
+t1285312514
+s3371
+
+N/Users/zengwu/Downloads/QQstyleTableView/click2.png
+c000000004C9C4FFC0000000000000D2F
+t1285312508
+s3375
+
+N/Users/zengwu/Downloads/QQstyleTableView/main.m
+c000000004AB83E630000000000000160
+t1253588579
+s352
+i<UIKit/UIKit.h>
+
+N/Users/zengwu/Downloads/QQstyleTableView/next.png
+c000000004AE98CD80000000000000C37
+t1256819928
+s3127
+
+N/var/folders/+y/+yiVvc7jEuiSUq2PUs5aa++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/QQstyleTableView_Prefix-bfwqxqxwwhdqllfyyctjijozzhke/QQstyleTableView_Prefix.pch.gch
+t1301361035
+s15211536
+
+NQQstyleTableView-Info.plist
+c000000004AB83E63000000000000038D
+t1253588579
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies323053886#323053886#0(0"0(0#1#0"8626949312#0"0#
+
+CCompileC build/QQstyleTableView.build/Debug-iphonesimulator/QQstyleTableView.build/Objects-normal/i386/QQTableViewAppDelegate.o /Users/zengwu/Downloads/QQstyleTableView/Classes/QQTableViewAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s323053886.503480
+e323053886.635397
+r1
+xCompileC
+xbuild/QQstyleTableView.build/Debug-iphonesimulator/QQstyleTableView.build/Objects-normal/i386/QQTableViewAppDelegate.o
+x/Users/zengwu/Downloads/QQstyleTableView/Classes/QQTableViewAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@81"Compile /Users/zengwu/Downloads/QQstyleTableView/Classes/QQTableViewAppDelegate.m323053886#323053886#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#73"/Users/zengwu/Downloads/QQstyleTableView/Classes/QQTableViewAppDelegate.m8626867936#2201"    cd /Users/zengwu/Downloads/QQstyleTableView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/zengwu/Downloads/QQstyleTableView/build/QQstyleTableView.build/Debug-iphonesimulator/QQstyleTableView.build/QQstyleTableView-generated-files.hmap -I/Users/zengwu/Downloads/QQstyleTableView/build/QQstyleTableView.build/Debug-iphonesimulator/QQstyleTableView.build/QQstyleTableView-own-target-headers.hmap -I/Users/zengwu/Downloads/QQstyleTableView/build/QQstyleTableView.build/Debug-iphonesimulator/QQstyleTableView.build/QQstyleTableView-all-target-headers.hmap -iquote /Users/zengwu/Downloads/QQstyleTableView/build/QQstyleTableView.build/Debug-iphonesimulator/QQstyleTableView.build/QQstyleTableView-project-headers.hmap -F/Users/zengwu/Downloads/QQstyleTableView/build/Debug-iphonesimulator -I/Users/zengwu/Downloads/QQstyleTableView/build/Debug-iphonesimulator/include -I/Users/zengwu/Downloads/QQstyleTableView/build/QQstyleTableView.build/Debug-iphonesimulator/QQstyleTableView.build/DerivedSources/i386 -I/Users/zengwu/Downloads/QQstyleTableView/build/QQstyleTableView.build/Debug-iphonesimulator/QQstyleTableView.build/DerivedSources -include /var/folders/+y/+yiVvc7jEuiSUq2PUs5aa++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/QQstyleTableView_Prefix-bfwqxqxwwhdqllfyyctjijozzhke/QQstyleTableView_Prefix.pch -c /Users/zengwu/Downloads/QQstyleTableView/Classes/QQTableViewAppDelegate.m -o /Users/zengwu/Downloads/QQstyleTableView/build/QQstyleTableView.build/Debug-iphonesimulator/QQstyleTableView.build/Objects-normal/i386/QQTableViewAppDelegate.o0#
+
+CCompileC build/QQstyleTableView.build/Debug-iphonesimulator/QQstyleTableView.build/Objects-normal/i386/QQTableViewViewController.o /Users/zengwu/Downloads/QQstyleTableView/Classes/QQTableViewViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s323053835.238881
+e323053835.446647
+r1
+xCompileC
+xbuild/QQstyleTableView.build/Debug-iphonesimulator/QQstyleTableView.build/Objects-normal/i386/QQTableViewViewController.o
+x/Users/zengwu/Downloads/QQstyleTableView/Classes/QQTableViewViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@84"Compile /Users/zengwu/Downloads/QQstyleTableView/Classes/QQTableViewViewController.m323053835#323053835#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#76"/Users/zengwu/Downloads/QQstyleTableView/Classes/QQTableViewViewController.m8625304832#2207"    cd /Users/zengwu/Downloads/QQstyleTableView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/zengwu/Downloads/QQstyleTableView/build/QQstyleTableView.build/Debug-iphonesimulator/QQstyleTableView.build/QQstyleTableView-generated-files.hmap -I/Users/zengwu/Downloads/QQstyleTableView/build/QQstyleTableView.build/Debug-iphonesimulator/QQstyleTableView.build/QQstyleTableView-own-target-headers.hmap -I/Users/zengwu/Downloads/QQstyleTableView/build/QQstyleTableView.build/Debug-iphonesimulator/QQstyleTableView.build/QQstyleTableView-all-target-headers.hmap -iquote /Users/zengwu/Downloads/QQstyleTableView/build/QQstyleTableView.build/Debug-iphonesimulator/QQstyleTableView.build/QQstyleTableView-project-headers.hmap -F/Users/zengwu/Downloads/QQstyleTableView/build/Debug-iphonesimulator -I/Users/zengwu/Downloads/QQstyleTableView/build/Debug-iphonesimulator/include -I/Users/zengwu/Downloads/QQstyleTableView/build/QQstyleTableView.build/Debug-iphonesimulator/QQstyleTableView.build/DerivedSources/i386 -I/Users/zengwu/Downloads/QQstyleTableView/build/QQstyleTableView.build/Debug-iphonesimulator/QQstyleTableView.build/DerivedSources -include /var/folders/+y/+yiVvc7jEuiSUq2PUs5aa++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/QQstyleTableView_Prefix-bfwqxqxwwhdqllfyyctjijozzhke/QQstyleTableView_Prefix.pch -c /Users/zengwu/Downloads/QQstyleTableView/Classes/QQTableViewViewController.m -o /Users/zengwu/Downloads/QQstyleTableView/build/QQstyleTableView.build/Debug-iphonesimulator/QQstyleTableView.build/Objects-normal/i386/QQTableViewViewController.o0#
+
+CCompileC build/QQstyleTableView.build/Debug-iphonesimulator/QQstyleTableView.build/Objects-normal/i386/main.o /Users/zengwu/Downloads/QQstyleTableView/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s323053835.235312
+e323053835.289595
+r1
+xCompileC
+xbuild/QQstyleTableView.build/Debug-iphonesimulator/QQstyleTableView.build/Objects-normal/i386/main.o
+x/Users/zengwu/Downloads/QQstyleTableView/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@55"Compile /Users/zengwu/Downloads/QQstyleTableView/main.m323053835#323053835#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#47"/Users/zengwu/Downloads/QQstyleTableView/main.m8618701728#2157"    cd /Users/zengwu/Downloads/QQstyleTableView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/zengwu/Downloads/QQstyleTableView/build/QQstyleTableView.build/Debug-iphonesimulator/QQstyleTableView.build/QQstyleTableView-generated-files.hmap -I/Users/zengwu/Downloads/QQstyleTableView/build/QQstyleTableView.build/Debug-iphonesimulator/QQstyleTableView.build/QQstyleTableView-own-target-headers.hmap -I/Users/zengwu/Downloads/QQstyleTableView/build/QQstyleTableView.build/Debug-iphonesimulator/QQstyleTableView.build/QQstyleTableView-all-target-headers.hmap -iquote /Users/zengwu/Downloads/QQstyleTableView/build/QQstyleTableView.build/Debug-iphonesimulator/QQstyleTableView.build/QQstyleTableView-project-headers.hmap -F/Users/zengwu/Downloads/QQstyleTableView/build/Debug-iphonesimulator -I/Users/zengwu/Downloads/QQstyleTableView/build/Debug-iphonesimulator/include -I/Users/zengwu/Downloads/QQstyleTableView/build/QQstyleTableView.build/Debug-iphonesimulator/QQstyleTableView.build/DerivedSources/i386 -I/Users/zengwu/Downloads/QQstyleTableView/build/QQstyleTableView.build/Debug-iphonesimulator/QQstyleTableView.build/DerivedSources -include /var/folders/+y/+yiVvc7jEuiSUq2PUs5aa++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/QQstyleTableView_Prefix-bfwqxqxwwhdqllfyyctjijozzhke/QQstyleTableView_Prefix.pch -c /Users/zengwu/Downloads/QQstyleTableView/main.m -o /Users/zengwu/Downloads/QQstyleTableView/build/QQstyleTableView.build/Debug-iphonesimulator/QQstyleTableView.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/zengwu/Downloads/QQstyleTableView/MainWindow.xib
+s323053834.138586
+e323053834.477004
+r1
+xCompileXIB
+x/Users/zengwu/Downloads/QQstyleTableView/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib323053834#323053834#0(0"0(0#0#55"/Users/zengwu/Downloads/QQstyleTableView/MainWindow.xib8624449120#585"    cd /Users/zengwu/Downloads/QQstyleTableView    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/zengwu/Downloads/QQstyleTableView/build/Debug-iphonesimulator/QQstyleTableView.app/MainWindow.nib /Users/zengwu/Downloads/QQstyleTableView/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB /Users/zengwu/Downloads/QQstyleTableView/QQTableViewViewController.xib
+s323053834.139140
+e323053834.471362
+r1
+xCompileXIB
+x/Users/zengwu/Downloads/QQstyleTableView/QQTableViewViewController.xib
+lSLF07#2@40"CompileXIB QQTableViewViewController.xib323053834#323053834#0(0"0(0#0#70"/Users/zengwu/Downloads/QQstyleTableView/QQTableViewViewController.xib8624180928#615"    cd /Users/zengwu/Downloads/QQstyleTableView    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/zengwu/Downloads/QQstyleTableView/build/Debug-iphonesimulator/QQstyleTableView.app/QQTableViewViewController.nib /Users/zengwu/Downloads/QQstyleTableView/QQTableViewViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCpResource build/Debug-iphonesimulator/QQstyleTableView.app/102.png 102.png
+s323053834.142295
+e323053834.149642
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/QQstyleTableView.app/102.png
+x102.png
+lSLF07#2@12"Copy 102.png323053834#323053834#0(0"0(0#0#48"/Users/zengwu/Downloads/QQstyleTableView/102.png8618185696#480"    cd /Users/zengwu/Downloads/QQstyleTableView    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/zengwu/Downloads/QQstyleTableView/102.png /Users/zengwu/Downloads/QQstyleTableView/build/Debug-iphonesimulator/QQstyleTableView.app0#
+
+CCpResource build/Debug-iphonesimulator/QQstyleTableView.app/click1.png click1.png
+s323053834.139644
+e323053834.146689
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/QQstyleTableView.app/click1.png
+xclick1.png
+lSLF07#2@15"Copy click1.png323053834#323053834#0(0"0(0#0#51"/Users/zengwu/Downloads/QQstyleTableView/click1.png8620977856#483"    cd /Users/zengwu/Downloads/QQstyleTableView    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/zengwu/Downloads/QQstyleTableView/click1.png /Users/zengwu/Downloads/QQstyleTableView/build/Debug-iphonesimulator/QQstyleTableView.app0#
+
+CCpResource build/Debug-iphonesimulator/QQstyleTableView.app/click2.png click2.png
+s323053834.140607
+e323053834.146865
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/QQstyleTableView.app/click2.png
+xclick2.png
+lSLF07#2@15"Copy click2.png323053834#323053834#0(0"0(0#0#51"/Users/zengwu/Downloads/QQstyleTableView/click2.png8619760160#483"    cd /Users/zengwu/Downloads/QQstyleTableView    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/zengwu/Downloads/QQstyleTableView/click2.png /Users/zengwu/Downloads/QQstyleTableView/build/Debug-iphonesimulator/QQstyleTableView.app0#
+
+CCpResource build/Debug-iphonesimulator/QQstyleTableView.app/next.png next.png
+s323053834.141573
+e323053834.149331
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/QQstyleTableView.app/next.png
+xnext.png
+lSLF07#2@13"Copy next.png323053834#323053834#0(0"0(0#0#49"/Users/zengwu/Downloads/QQstyleTableView/next.png8618998560#481"    cd /Users/zengwu/Downloads/QQstyleTableView    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/zengwu/Downloads/QQstyleTableView/next.png /Users/zengwu/Downloads/QQstyleTableView/build/Debug-iphonesimulator/QQstyleTableView.app0#
+
+CGenerateDSYMFile /Users/zengwu/Downloads/QQstyleTableView/build/Debug-iphonesimulator/QQstyleTableView.app.dSYM /Users/zengwu/Downloads/QQstyleTableView/build/Debug-iphonesimulator/QQstyleTableView.app/QQstyleTableView
+s323053886.652885
+e323053886.663484
+r1
+xGenerateDSYMFile
+x/Users/zengwu/Downloads/QQstyleTableView/build/Debug-iphonesimulator/QQstyleTableView.app.dSYM
+x/Users/zengwu/Downloads/QQstyleTableView/build/Debug-iphonesimulator/QQstyleTableView.app/QQstyleTableView
+lSLF07#2@136"GenerateDSYMFile build/Debug-iphonesimulator/QQstyleTableView.app.dSYM build/Debug-iphonesimulator/QQstyleTableView.app/QQstyleTableView323053886#323053886#0(0"0(0#0#106"/Users/zengwu/Downloads/QQstyleTableView/build/Debug-iphonesimulator/QQstyleTableView.app/QQstyleTableView8625163584#416"    cd /Users/zengwu/Downloads/QQstyleTableView    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/zengwu/Downloads/QQstyleTableView/build/Debug-iphonesimulator/QQstyleTableView.app/QQstyleTableView -o /Users/zengwu/Downloads/QQstyleTableView/build/Debug-iphonesimulator/QQstyleTableView.app.dSYM0#
+
+CLd /Users/zengwu/Downloads/QQstyleTableView/build/Debug-iphonesimulator/QQstyleTableView.app/QQstyleTableView normal i386
+s323053886.635470
+e323053886.652807
+r1
+xLd
+x/Users/zengwu/Downloads/QQstyleTableView/build/Debug-iphonesimulator/QQstyleTableView.app/QQstyleTableView
+xnormal
+xi386
+lSLF07#2@111"Link /Users/zengwu/Downloads/QQstyleTableView/build/Debug-iphonesimulator/QQstyleTableView.app/QQstyleTableView323053886#323053886#0(0"0(0#0#0"8625875232#955"    cd /Users/zengwu/Downloads/QQstyleTableView    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -L/Users/zengwu/Downloads/QQstyleTableView/build/Debug-iphonesimulator -F/Users/zengwu/Downloads/QQstyleTableView/build/Debug-iphonesimulator -filelist /Users/zengwu/Downloads/QQstyleTableView/build/QQstyleTableView.build/Debug-iphonesimulator/QQstyleTableView.build/Objects-normal/i386/QQstyleTableView.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/zengwu/Downloads/QQstyleTableView/build/Debug-iphonesimulator/QQstyleTableView.app/QQstyleTableView0#
+
+CProcessInfoPlistFile /Users/zengwu/Downloads/QQstyleTableView/build/Debug-iphonesimulator/QQstyleTableView.app/Info.plist QQstyleTableView-Info.plist
+s323053834.135887
+e323053834.138522
+r1
+xProcessInfoPlistFile
+x/Users/zengwu/Downloads/QQstyleTableView/build/Debug-iphonesimulator/QQstyleTableView.app/Info.plist
+xQQstyleTableView-Info.plist
+lSLF07#2@35"Process QQstyleTableView-Info.plist323053834#323053834#0(0"0(0#0#68"/Users/zengwu/Downloads/QQstyleTableView/QQstyleTableView-Info.plist8625226464#512"    cd /Users/zengwu/Downloads/QQstyleTableView    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility QQstyleTableView-Info.plist -genpkginfo /Users/zengwu/Downloads/QQstyleTableView/build/Debug-iphonesimulator/QQstyleTableView.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/zengwu/Downloads/QQstyleTableView/build/Debug-iphonesimulator/QQstyleTableView.app/Info.plist0#
+
+CProcessPCH /var/folders/+y/+yiVvc7jEuiSUq2PUs5aa++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/QQstyleTableView_Prefix-bfwqxqxwwhdqllfyyctjijozzhke/QQstyleTableView_Prefix.pch.gch QQstyleTableView_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s323053834.477135
+e323053835.234935
+r1
+xProcessPCH
+x/var/folders/+y/+yiVvc7jEuiSUq2PUs5aa++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/QQstyleTableView_Prefix-bfwqxqxwwhdqllfyyctjijozzhke/QQstyleTableView_Prefix.pch.gch
+xQQstyleTableView_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@38"Precompile QQstyleTableView_Prefix.pch323053834#323053835#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#68"/Users/zengwu/Downloads/QQstyleTableView/QQstyleTableView_Prefix.pch8626043136#2038"    cd /Users/zengwu/Downloads/QQstyleTableView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/zengwu/Downloads/QQstyleTableView/build/QQstyleTableView.build/Debug-iphonesimulator/QQstyleTableView.build/QQstyleTableView-generated-files.hmap -I/Users/zengwu/Downloads/QQstyleTableView/build/QQstyleTableView.build/Debug-iphonesimulator/QQstyleTableView.build/QQstyleTableView-own-target-headers.hmap -I/Users/zengwu/Downloads/QQstyleTableView/build/QQstyleTableView.build/Debug-iphonesimulator/QQstyleTableView.build/QQstyleTableView-all-target-headers.hmap -iquote /Users/zengwu/Downloads/QQstyleTableView/build/QQstyleTableView.build/Debug-iphonesimulator/QQstyleTableView.build/QQstyleTableView-project-headers.hmap -F/Users/zengwu/Downloads/QQstyleTableView/build/Debug-iphonesimulator -I/Users/zengwu/Downloads/QQstyleTableView/build/Debug-iphonesimulator/include -I/Users/zengwu/Downloads/QQstyleTableView/build/QQstyleTableView.build/Debug-iphonesimulator/QQstyleTableView.build/DerivedSources/i386 -I/Users/zengwu/Downloads/QQstyleTableView/build/QQstyleTableView.build/Debug-iphonesimulator/QQstyleTableView.build/DerivedSources -c /Users/zengwu/Downloads/QQstyleTableView/QQstyleTableView_Prefix.pch -o /var/folders/+y/+yiVvc7jEuiSUq2PUs5aa++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/QQstyleTableView_Prefix-bfwqxqxwwhdqllfyyctjijozzhke/QQstyleTableView_Prefix.pch.gch0#
+
+CTouch /Users/zengwu/Downloads/QQstyleTableView/build/Debug-iphonesimulator/QQstyleTableView.app
+s323053886.663556
+e323053886.665305
+r1
+xTouch
+x/Users/zengwu/Downloads/QQstyleTableView/build/Debug-iphonesimulator/QQstyleTableView.app
+lSLF07#2@95"Touch /Users/zengwu/Downloads/QQstyleTableView/build/Debug-iphonesimulator/QQstyleTableView.app323053886#323053886#0(0"0(0#0#0"8624918624#291"    cd /Users/zengwu/Downloads/QQstyleTableView    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/zengwu/Downloads/QQstyleTableView/build/Debug-iphonesimulator/QQstyleTableView.app0#
+

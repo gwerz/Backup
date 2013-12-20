@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>A829A3C4-C783-46D0-97E9-389BAF880A68</string>
+	<key>IDESourceControlProjectName</key>
+	<string>TVAnimationsGestures</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>A59723A5-EA17-4DDF-A196-3CAE3298C378</key>
+		<string>https://github.com/zzchu/Backup.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>TableViewUpdates/TVAnimationsGestures.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>A59723A5-EA17-4DDF-A196-3CAE3298C378</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/zzchu/Backup.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>A59723A5-EA17-4DDF-A196-3CAE3298C378</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>A59723A5-EA17-4DDF-A196-3CAE3298C378</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Backup</string>
+		</dict>
+	</array>
+</dict>
+</plist>
